@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ENENVIRONMENT>
+    <URL>https://www.saucedemo.com/</URL>
+    <LIST_URL>https://www.saucedemo.com/inventory.html</LIST_URL>
+    <BROWSER_TYPE>Chrome</BROWSER_TYPE>
+    <WAIT_TIMEOUT>10</WAIT_TIMEOUT>
+    <SLEEP_TIMEOUT>5</SLEEP_TIMEOUT>
+    <USERNAME>standard_user</USERNAME>
+    <PASSWORD>secret_sauce</PASSWORD>
+    <EXPECTED_TOTAL_PRODUCTS>6</EXPECTED_TOTAL_PRODUCTS>
+    <EXPECTED_PRODUCT_TITLE>Sauce Labs Backpack</EXPECTED_PRODUCT_TITLE>
+    <BUTTON_TEXT>Back to products</BUTTON_TEXT>
+    <BACKPACK_ID>0</BACKPACK_ID>
+    <BIKE_LIGHT_ID>1</BIKE_LIGHT_ID>
+    <BOLT_T-SHIRT_ID>2</BOLT_T-SHIRT_ID>
+    <FLEECE_JACKET_ID>3</FLEECE_JACKET_ID>
+    <ONESIE_ID>4</ONESIE_ID>
+    <T-SHIRT_RED_ID>5</T-SHIRT_RED_ID>
+
+</ENENVIRONMENT>
